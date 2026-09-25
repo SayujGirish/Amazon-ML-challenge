@@ -1,0 +1,33 @@
+# Virtual environment
+.venv/
+venv/
+env/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Jupyter
+.ipynb_checkpoints/
+
+# VS Code
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Python tooling
+.pytest_cache/
+.mypy_cache/
+
+# Local environment / secrets
+.env
+.env.*
+
+# Generated/intermediate data
+data/processed/
+*.tmp
+
+# Local outputs (optional)
+# output/
