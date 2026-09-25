@@ -1,0 +1,8 @@
+rapidfuzz
+scikit-learn
+pandas
+numpy
+matplotlib
+catboost 
+xgboost 
+lightgbm 
